@@ -2,7 +2,7 @@
 ## USGS Earthquake Data Visualization
 This interactive web application aims to visualize earthquake data sourced from the United States Geological Survey (USGS). The dataset contains comprehensive information about earthquakes worldwide in the past day, including their magnitudes, locations, and depths. By utilizing this tool, users can gain valuable insights into the global distribution and characteristics of seismic events.
 
-This site is hosted on GitHub Pages.
+This site is hosted on [GitHub Pages](https://rgajjar111.github.io/leaflet-challenge/)
 
 ## Getting Started
 Explore the Map:  explore the interactive map that plots earthquake locations based on their latitude and longitude. The markers on the map reflect the magnitude of the earthquakes through size and their depth through color.
